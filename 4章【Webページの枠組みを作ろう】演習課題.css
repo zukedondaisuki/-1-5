@@ -16,12 +16,6 @@
   background-color: orange; /* 背景色orange */
 }
 
-.main-visual-content {
-  width: 350px; /* 横幅350px */
-  height: 300px; /* 親の高さに揃える */
-  background-color: gold; /* 背景色gold */
-}
-
 .main {
   width: 840px; /* 横幅840px */
   display: flex; /* Flexboxの利用 */
